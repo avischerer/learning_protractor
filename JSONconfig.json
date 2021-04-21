@@ -1,0 +1,19 @@
+{
+  "testname": "angularjs",
+  "adrees": "https://angularjs.org/",
+  "filename": "JSONclass",
+  "classes": [
+    {
+      "class": "'nav']/li[1]"
+    },
+    {
+      "class": "'site-notice visible-desktop']/a"
+    },
+    {
+      "class": "'grid-fluid']/div[1]/ul//li[1]/a"
+    },
+    {
+      "class": "'flex-center group-buttons']/a[2]"
+    }
+  ]
+}
