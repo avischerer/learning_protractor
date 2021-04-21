@@ -2,18 +2,26 @@
   "testname": "angularjs",
   "adrees": "https://angularjs.org/",
   "filename": "JSONclass",
+  "expetwebpage":"AngularJS — Superheroic JavaScript MVW Framework",
   "classes": [
     {
-      "class": "'nav']/li[1]"
+      "testDescriptin": "testing 'find out more'",
+      "class": "'hero']/div[3]/span/a",
+      "expet": "AngularJS: Miscellaneous: Version Support Status",
+      "isAngular": true
     },
     {
-      "class": "'site-notice visible-desktop']/a"
+      "testDescriptin": "testing 'edit me'",
+      "class": "'row example']/div[2]/span[2]/button",
+      "expet": "Plunker - AngularJS Example:",
+      "isAngular": true
     },
     {
-      "class": "'grid-fluid']/div[1]/ul//li[1]/a"
-    },
-    {
-      "class": "'flex-center group-buttons']/a[2]"
+      "testDescriptin": "testing footer ",
+      "class": "'footer']/div/p[3]/a[2]",
+      "expet": "Creative Commons — Attribution 4.0 International — CC BY 4.0",
+      "isAngular": false
     }
+    
   ]
 }
