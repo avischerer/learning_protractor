@@ -1,25 +1,24 @@
 {
   "testname": "angularjs",
-  "adrees": "https://angularjs.org/",
-  "filename": "JSONclass",
-  "expetwebpage":"AngularJS — Superheroic JavaScript MVW Framework",
+  "address": "https://angularjs.org/",
+  "expectpagetitle":"AngularJS — Superheroic JavaScript MVW Framework",
   "classes": [
     {
-      "testDescriptin": "testing 'find out more'",
+      "testDescription": "testing 'find out more'",
       "class": "'hero']/div[3]/span/a",
-      "expet": "AngularJS: Miscellaneous: Version Support Status",
+      "expect": "AngularJS: Miscellaneous: Version Support Status",
       "isAngular": true
     },
     {
-      "testDescriptin": "testing 'edit me'",
+      "testDescription": "testing 'edit me'",
       "class": "'row example']/div[2]/span[2]/button",
-      "expet": "Plunker - AngularJS Example:",
+      "expect": "Plunker - AngularJS Example:",
       "isAngular": true
     },
     {
-      "testDescriptin": "testing footer ",
+      "testDescription": "testing footer ",
       "class": "'footer']/div/p[3]/a[2]",
-      "expet": "Creative Commons — Attribution 4.0 International — CC BY 4.0",
+      "expect": "Creative Commons — Attribution 4.0 International — CC BY 4.0",
       "isAngular": false
     }
     
